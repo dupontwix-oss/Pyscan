@@ -218,7 +218,7 @@ On a /24 with only 4 live hosts, only those 4 are port-scanned — not all 254.
 Pull requests are welcome. For major changes, open an issue first to discuss what you'd like to change.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pyscan.git
+git clone https://github.com/dupontwix-oss/pyscan.git
 git checkout -b feature/your-feature
 # make your changes
 git commit -m "feat: your description"
