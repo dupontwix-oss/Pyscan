@@ -63,7 +63,7 @@ PyScan is a high-performance network port scanner written in Python, inspired by
 
 ```bash
 # Clone
-git clone https://github.com/dupontwix-oss/pyscan.git
+git clone https://github.com/dupontwix-oss/Pyscan.git
 cd pyscan
 
 # Dependencies
@@ -218,7 +218,7 @@ On a /24 with only 4 live hosts, only those 4 are port-scanned — not all 254.
 Pull requests are welcome. For major changes, open an issue first to discuss what you'd like to change.
 
 ```bash
-git clone https://github.com/dupontwix-oss/pyscan.git
+git clone https://github.com/dupontwix-oss/Pyscan.git
 git checkout -b feature/your-feature
 # make your changes
 git commit -m "feat: your description"
