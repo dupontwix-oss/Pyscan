@@ -63,7 +63,7 @@ PyScan is a high-performance network port scanner written in Python, inspired by
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/pyscan.git
+git clone https://github.com/dupontwix-oss/pyscan.git
 cd pyscan
 
 # Dependencies
