@@ -1,5 +1,5 @@
 # Pyscan
-Tool For Scanning Network
+Tool For Scanning Network Created by Lynx
 <div align="center">
 
 ```
